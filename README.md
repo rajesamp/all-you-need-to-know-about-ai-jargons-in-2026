@@ -1,5 +1,7 @@
-Agentic AI — Jargon Glossary (Redone)
+Agentic AI — Jargon Glossary 
+
 MODELS & FUNDAMENTALS
+
 LLM (Large Language Model)
 What it is: A neural network trained on billions of text documents to predict the most likely next word, over and over.
 Remember it: It's not a search engine with a database of facts — it's a next-word prediction machine that got so good at predicting, it learned to reason. Think autocomplete that went to college.
